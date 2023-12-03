@@ -1,5 +1,5 @@
 ## metodos_numericos
-Repositorio con scripts que simulan las iteraciones de algunos metodos numéricos, dando como resultado su tabla y su grafica
+Repositorio con scripts que simulan las iteraciones de algoritmos de búsqueda de raíces, dando como resultado su tabla y su grafica
 
 ## Instala las librerias requeridas
 
